@@ -1,0 +1,55 @@
+table {
+    border: solid darkred;
+    background-color: rgba(136, 106, 106, 0.822);
+    width: 1002px;
+    text-align: center;
+
+}
+
+thead   {
+    background-color: darkred;
+    color: rgb(255, 254, 242);
+}
+    
+body {
+
+    background-color: rgb(255, 254, 242);
+    font-family: "Lucida Console", Monaco , monospace;
+}
+
+button {
+    color: rgb(255, 254, 242) ;
+    background-color: rgb(192, 51, 0);
+    border-radius: 5px;
+}
+
+tbody{
+    background-color: rgb(255, 250, 219);
+}
+
+h1 {
+    color: rgb(255, 254, 242);
+    background-color: darkred;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgba(136, 106, 106, 0.822);
+    width: 1000px;
+    text-align: right;
+
+}
+.entryForm1 {
+    border-width: 1px;
+    border-style: solid;
+    margin: 0px;
+    width: 1000px;
+    height: 30px;
+    border-bottom-color: (255, 254, 242);
+
+}.entryForm2 {
+    border-width: 1px;
+    border-style: solid;
+    margin: 0px;
+    width: 1000px;
+    height: 30px;
+    border-top-color: (255, 254, 242);
+}
